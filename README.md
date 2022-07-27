@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @koshal18nitj
+- 👋 Hi, I’m shubham_koshal
 - 👀 I’m interested in analysing of data 
-- 🌱 I’m currently learning python and MySQl
-- 💞️ I’m looking to collaborate on data analyst projects
+- 🌱 I’m currently learning advance NLP
+- 💞️ I’m looking to collaborate on sentiment analysis 
 - 📫 How to reach me at shubhu.koshal@gmail.com
 
 <!---
